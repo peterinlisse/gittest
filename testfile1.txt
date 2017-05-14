@@ -1,3 +1,5 @@
+Added copyrigth to this file.
+
 1st line
 2nd line
 3th line
@@ -11,3 +13,5 @@ seventh line.
 eigth line.
 9th line.
 10th line.
+
+Added some footer information to this file.
