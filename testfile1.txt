@@ -14,4 +14,3 @@ sixed line.
 10th line.
 
 Added line for simple changes.
-Added some footer information to this file.
