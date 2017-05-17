@@ -1,3 +1,4 @@
+Added a other line to do a 2nd stash.
 Adding a line to test stash on a branch.
 
 Testing stash pop command.@@@@@@@@@@@@
