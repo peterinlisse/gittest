@@ -1,3 +1,5 @@
+Adding a line to test stash on a branch.
+
 Testing stash pop command.@@@@@@@@@@@@
 Added a new first line.
 Added copyrigth to this file.!!!!!!!!!!
