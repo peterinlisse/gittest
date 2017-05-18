@@ -1,3 +1,2 @@
 Cleared all lines.
-
-Added an extra line
+Added a second line.
